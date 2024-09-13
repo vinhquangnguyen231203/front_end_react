@@ -1,0 +1,1 @@
+npm i reactstrap axios react-router-dom redux-toolkit react-paginate @reduxjs/toolkit react-toastify

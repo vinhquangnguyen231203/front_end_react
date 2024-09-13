@@ -1,0 +1,22 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+
+.student-item.active{
+    border:4px solid green;
+    padding:30px;
+
+}
+.classInput input{
+  margin-bottom: 10px;
+}
+.classInput .dis_div{
+  display: flex;
+}
+.classInput .groupInput{
+  margin: 20px 10px;
+  border-radius: 10px;
+  border: 1px solid red;
+}
